@@ -1,1 +1,1 @@
-# Analyzing Basketball using Python Elasticsearch and Kibana
+# Analyzing Basketball using Python, Elasticsearch, and Kibana
