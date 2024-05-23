@@ -30,6 +30,11 @@ The focus is on utilizing Celtics and Timberwolves data to showcase these proces
 
 In the right-hand corner, you can select where it says “New” to create a new Jupyter Notebook.
 
+## Resources
+- [How to analyze data using Python, Elasticsearch and Kibana](https://www.elastic.co/search-labs/blog/analyzing-data-using-python-elasticsearch-and-kibana)
+- [Intro to Elasticsearch](https://www.youtube.com/watch?v=avxqGSPyKOA)
+- [Beginner's Crash Course to Elastic Stack](https://www.youtube.com/watch?v=gS_nHTWZEJ8)
+
 ## Getting help
 
 Let us know if you need if this blog post inspires you to build anything or if you have any questions on our [Discuss forums](https://discuss.elastic.co/) and [the community Slack channel](https://communityinviter.com/apps/elasticstack/elastic-community).
