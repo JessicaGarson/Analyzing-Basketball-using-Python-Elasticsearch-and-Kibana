@@ -32,6 +32,7 @@ In the right-hand corner, you can select where it says “New” to create a new
 
 ## Resources
 - [How to analyze data using Python, Elasticsearch and Kibana](https://www.elastic.co/search-labs/blog/analyzing-data-using-python-elasticsearch-and-kibana)
+- [What is an Elasticsearch index?](https://www.elastic.co/blog/what-is-an-elasticsearch-index)
 - [Intro to Elasticsearch](https://www.youtube.com/watch?v=avxqGSPyKOA)
 - [Beginner's Crash Course to Elastic Stack](https://www.youtube.com/watch?v=gS_nHTWZEJ8)
 
