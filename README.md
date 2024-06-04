@@ -10,7 +10,7 @@ The focus is on utilizing Celtics and Timberwolves data to showcase these proces
 
 ## Prerequisites
 
-- This demo uses Elasticsearch version 8.14; if you are new, check out our Quick Starts on [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) and [Kibana](https://www.elastic.co/guide/en/kibana/current/get-started.html).
+- This demo uses Elasticsearch version 8.13; if you are new, check out our Quick Starts on [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html) and [Kibana](https://www.elastic.co/guide/en/kibana/current/get-started.html).
 
 - Download the latest version of Python if you don’t have it installed on your machine. This example utilizes Python 3.12.1.
 
