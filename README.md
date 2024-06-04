@@ -1,6 +1,6 @@
 # Analyzing Basketball using Python, Elasticsearch, and Kibana
 
-his demo provides a comprehensive guide on how to:
+This demo provides a comprehensive guide on how to:
 
 - Load data into Elasticsearch using Python.
 - Write effective queries in Elasticsearch.
